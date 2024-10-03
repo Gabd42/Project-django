@@ -1,0 +1,8 @@
+CRIAR AMBIENTE VIRTUAL
+python -m venv tutorial-env
+
+ATIVAR AMBIENTE
+tutorial-env\Scripts\activate
+
+DESATIVAR
+deactivate
